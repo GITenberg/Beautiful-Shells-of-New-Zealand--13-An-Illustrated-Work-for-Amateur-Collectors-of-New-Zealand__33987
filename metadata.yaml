@@ -1,0 +1,28 @@
+_repo: Beautiful-Shells-of-New-Zealand--13-An-Illustrated-Work-for-Amateur-Collectors-of-New-Zealand__33987
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33987-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Moss, Edward George Britton
+    alias: Moss, E. G. B.
+    birthdate: 1856
+    deathdate: 1916
+    gutenberg_agent_id: '36616'
+    url: http://www.gutenberg.org/2009/agents/36616
+description: ''
+gutenberg_issued: '2010-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shells -- New Zealand'
+- !lcc 'QL'
+title: "Beautiful Shells of New Zealand\r\nAn Illustrated Work for Amateur Collectors\
+  \ of New Zealand Marine Shells, with Directions for Collecting and Cleaning them"
+url: http://www.gutenberg.org/ebooks/33987
